@@ -1,0 +1,81 @@
+﻿class_idx,class,conf_thr
+0,person,0.5
+1,bicycle,0.5
+2,car,0.5
+3,motorcycle,0.5
+4,airplane,0.5
+5,bus,0.5
+6,train,0.5
+7,truck,0.5
+8,boat,0.5
+9,traffic light,0.5
+10,fire hydrant,0.5
+11,stop sign,0.5
+12,parking meter,0.5
+13,bench,0.5
+14,bird,0.5
+15,cat,0.5
+16,dog,0.5
+17,horse,0.5
+18,sheep,0.5
+19,cow,0.5
+20,elephant,0.5
+21,bear,0.5
+22,zebra,0.5
+23,giraffe,0.5
+24,backpack,0.5
+25,umbrella,0.5
+26,handbag,0.5
+27,tie,0.5
+28,suitcase,0.5
+29,frisbee,0.5
+30,skis,0.5
+31,snowboard,0.5
+32,sports ball,0.5
+33,kite,0.5
+34,baseball bat,0.5
+35,baseball glove,0.5
+36,skateboard,0.5
+37,surfboard,0.5
+38,tennis racket,0.5
+39,bottle,0.5
+40,wine glass,0.5
+41,cup,0.5
+42,fork,0.5
+43,knife,0.5
+44,spoon,0.5
+45,bowl,0.5
+46,banana,0.5
+47,apple,0.5
+48,sandwich,0.5
+49,orange,0.5
+50,broccoli,0.5
+51,carrot,0.5
+52,hot dog,0.5
+53,pizza,0.5
+54,donut,0.5
+55,cake,0.5
+56,chair,0.5
+57,couch,0.5
+58,potted plant,0.5
+59,bed,0.5
+60,dining table,0.5
+61,toilet,0.5
+62,tv,0.5
+63,laptop,0.5
+64,mouse,0.5
+65,remote,0.5
+66,keyboard,0.5
+67,cell phone,0.5
+68,microwave,0.5
+69,oven,0.5
+70,toaster,0.5
+71,sink,0.5
+72,refrigerator,0.5
+73,book,0.5
+74,clock,0.5
+75,vase,0.5
+76,scissors,0.5
+77,teddy bear,0.5
+78,hair drier,0.5
+79,toothbrush,0.5

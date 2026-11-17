@@ -1,0 +1,7 @@
+# torch/torchvision은 CUDA 버전에 맞춰 따로 설치 (README 참고). 논문 실험: torch 2.6.0+cu124
+ultralytics==8.4.51
+numpy
+pandas
+matplotlib
+tqdm
+pyyaml

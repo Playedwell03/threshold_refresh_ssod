@@ -1,0 +1,6 @@
+runs/
+paper_outputs/
+coco/
+*.pt
+__pycache__/
+*.hwpx

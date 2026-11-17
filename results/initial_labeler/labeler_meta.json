@@ -1,0 +1,32 @@
+{
+  "trained_at": "2026-09-30T22:39:34+09:00",
+  "epochs_planned": 200,
+  "epochs_run": 196,
+  "best_val_mAP50-95": 0.19941,
+  "split": {
+    "n": 20,
+    "seed": 42,
+    "drop_empty": false
+  },
+  "train_config": {
+    "model": "yolov8s.yaml",
+    "pretrained": false,
+    "batch": 16,
+    "imgsz": 640,
+    "optimizer": "SGD",
+    "lr0": 0.01,
+    "lrf": 0.01,
+    "momentum": 0.937,
+    "weight_decay": 0.0005,
+    "epochs": 200,
+    "patience": 25,
+    "mosaic": 1.0,
+    "copy_paste": 0.2,
+    "mixup": 0.15,
+    "seed": 0,
+    "workers": 8,
+    "device": null,
+    "plots": true
+  },
+  "source_run_dir": "runs/base/p1_output/runs/labeler"
+}
